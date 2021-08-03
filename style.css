@@ -1,8 +1,3 @@
-.img {
-    display: flex;
-    position: absolute;
-    width: 1534px;
-    height: 1022px;
-    left: -47px;
-    top: -61px;
-    }
+body {
+    background-image: url(img/image3.png);
+}

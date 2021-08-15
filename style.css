@@ -1,3 +1,19 @@
 .registration {
     font-size: medium;
 }
+
+.name {
+position: absolute;
+width: 320px;
+height: 44px;
+left: 170px;
+top: 654px;
+}
+
+.surname {
+position: absolute;
+width: 320px;
+height: 44px;
+left: 170px;
+top: 708px;
+}

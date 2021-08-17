@@ -12,8 +12,13 @@
         <p>Регистрация аккаунта</p>
         <input class="name" type="text" placeholder="Имя">
         <input class="surname" type="text" placeholder="Фамилия">
-        <p><input type="radio" name="gender"> Мужчина</p>
-        <p><input type="radio" name="gender"> Женщина</p>
+        <div>
+            <input id="m" class="rectangle_m" type="radio" name="gender" value="Мужчина" >
+            <label class="man" for="m">Мужчина</label>
+            <input id="w" class="rectangle_w" type="radio" name="gender" value="Женщина" >
+            <label class="woman" for="w">Женщина</label>
+        </div>
+        
         
         <p>дата рождения</p>
         <input type="date">

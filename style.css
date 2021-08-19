@@ -1,3 +1,8 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
 .registration {
     font-size: medium;
 }
@@ -86,4 +91,38 @@ top: 708px;
     /* Dark 50% */
     
     color: rgba(31, 32, 65, 0.5);
+}
+
+.date {
+position: absolute;
+width: 320px;
+height: 44px;
+left: 170px;
+top: 826px;
+
+background: #FFFFFF;
+border: 1px solid rgba(31, 32, 65, 0.25);
+box-sizing: border-box;
+border-radius: 4px;
+}
+
+.date_birth {
+    position: absolute;
+width: 118px;
+height: 15px;
+left: 170px;
+top: 806px;
+
+font-family: Montserrat;
+font-style: normal;
+font-weight: bold;
+font-size: 12px;
+line-height: 15px;
+/* identical to box height */
+
+text-transform: uppercase;
+
+/* Dark 100% */
+
+color: #1F2041;
 }

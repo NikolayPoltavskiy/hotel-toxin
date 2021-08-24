@@ -174,3 +174,23 @@
     box-sizing: border-box;
     border-radius: 4px;
 }
+
+.switch_label {
+    position: absolute;
+    width: 210px;
+    height: 24px;
+    left: 220px;
+    top: 1018px;
+
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 24px;
+    /* identical to box height, or 171% */
+
+
+    /* Dark 75% */
+
+    color: rgba(31, 32, 65, 0.75);
+}

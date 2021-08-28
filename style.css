@@ -7,6 +7,26 @@
     font-size: medium;
 }
 
+.regist_akk {
+    position: absolute;
+    width: 320px;
+    height: 30px;
+    left: 170px;
+    top: 604px;
+
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 24px;
+    line-height: 29px;
+    /* identical to box height */
+
+
+    /* Dark 100% */
+
+    color: #1F2041;
+}
+
 .name {
     position: absolute;
     width: 320px;
@@ -209,3 +229,4 @@
 
     color: rgba(31, 32, 65, 0.75);
 }
+

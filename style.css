@@ -261,5 +261,26 @@
 
     color: #FFFFFF;
 }
+
+.have_account {
+    position: absolute;
+    width: 186px;
+    height: 18px;
+    left: 170px;
+    top: 1148px;
+
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 18px;
+    /* identical to box height, or 129% */
+
+    display: flex;
+    align-items: center;
+    text-align: center;
+
+    color: #000000;
+}
     
 

@@ -282,5 +282,37 @@
 
     color: #000000;
 }
+
+.enter {
+    position: absolute;
+    width: 99px;
+    height: 44px;
+    left: 391px;
+    top: 1136px;
+
+    border-radius: 22px;
+}
+
+.enter_title {
+    position: absolute;
+    width: 47px;
+    height: 15px;
+    left: 417px;
+    top: 1150px;
+
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 12px;
+    line-height: 15px;
+    /* identical to box height */
+
+    text-align: center;
+    text-transform: uppercase;
+
+    /* Primary Color */
+
+    color: #BC9CFF;
+}
     
 

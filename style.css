@@ -38,7 +38,23 @@
     color: #1F2041;
 }
 
+.date_arrival {
+    position: absolute;
+    width: 150px;
+    height: 44px;
+    left: 170px;
+    top: 290.44px;
+
+    background: #FFFFFF;
+    /* Dark 25% */
+
+    border: 1px solid rgba(31, 32, 65, 0.25);
+    box-sizing: border-box;
+    border-radius: 4px;
+}
+
 /* registration */
+
 .registration {
     font-size: medium;
 }
